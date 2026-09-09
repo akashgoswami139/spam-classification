@@ -2,7 +2,13 @@
 
 https://spam-classification-akash.streamlit.app/
 
-A Machine Learning project that classifies SMS messages as **Ham** or **Spam** using Natural Language Processing and supervised learning.
+A Machine Learning project that classifies SMS messages as **Ham** or **Spam** using supervised learning.
+
+### 🚀 Live Demo
+
+🔗 **Try the application:** https://spam-classification-akash.streamlit.app/
+
+🔗 **GitHub Repository:** https://github.com/akashgoswami139/spam-classification
 
 ## Overview
 
@@ -174,6 +180,4 @@ https://www.linkedin.com/in/akashgoswami-/
 X:  
 https://x.com/akashgoswami144
 
-## Repository
 
-https://github.com/akashgoswami139/spam_classification
